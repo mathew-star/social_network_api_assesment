@@ -1,2 +1,3 @@
 djenv/
 .env
+db.sqlite3
